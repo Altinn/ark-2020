@@ -1,1 +1,2 @@
-* Dokumentere at html-rapport må regeneres manuelt ved "signifikante" endringer
+-   [x]  Dokumentere at html-rapport må regeneres manuelt ved "signifikante" endringer
+-   [ ]  Legg til KoFuVi
