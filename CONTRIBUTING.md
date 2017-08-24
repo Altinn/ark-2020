@@ -10,7 +10,7 @@
 1. Velg Collaboration-> Import remote model to workspace
 2. Fyll ut som følger
 ![Add Remote Model](/screenshots/Add_Remote_Model.png)
-  * URL: `https://github.com/Altinn/ark.git`
+  * URL: `https://github.com/Altinn/ark-2020.git`
   * User Name: `<ditt brukernavn på Github>`
   * Password: `<ditt passord på Github>`
   * Trykk OK
@@ -22,6 +22,12 @@ Om du ikke har gjort lokale endringer i modellen, er det enkelt å hente inn nye
 ### Jobbe med modellen i Archi
 Inn til videre er det ikke støtte for branching i Archi, dermed må du gjøre følgende når du skal oppdatere modellen
 
+#### Oppdatere HTML-rapporten
+Når du har gjort vesentlige endringer i modellen, må du oppdatere HTML-rapporten. (Dette er en read-only html-versjon av modellen, som interessenter kan klikke rundt i.)
+1. Velg File->Report->HTML...
+2. Velg docs-mappa i prosjektet. Den vil se omtrent slik ut:
+![Add Remote Model](/screenshots/Report.png)
+3. Trykk OK
 #### Commit
 1. Etter at du har gjort endringer, lagre disse på vanlig måte i Archi, feks CTLR+s
 2. Velg Collaboration->Commit Changes.
