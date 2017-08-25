@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Innsendingstjeneste"
+    id="bce8abbf-3e93-42ee-914f-d15c58f566eb"
+    documentation="Send inn &quot;Skjema&quot;"/>
