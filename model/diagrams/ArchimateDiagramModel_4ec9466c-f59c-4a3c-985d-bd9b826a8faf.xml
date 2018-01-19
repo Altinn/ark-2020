@@ -129,6 +129,42 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="5eda905c-3a97-4f25-8962-9714b9a1147b">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="d21d4fb7-6a2b-4313-a54d-aa8f8eacefbf"
+        source="5eda905c-3a97-4f25-8962-9714b9a1147b"
+        target="e2c24e45-253a-41c0-aafb-20a1e815116d">
+      <archimateRelationship
+          xsi:type="archimate:CompositionRelationship"
+          href="CompositionRelationship_3327fdea-cc17-467e-be18-5d597e069b84.xml#3327fdea-cc17-467e-be18-5d597e069b84"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="e54d5781-e442-4520-bf68-7f7d21e72238"
+        source="5eda905c-3a97-4f25-8962-9714b9a1147b"
+        target="4cd0ba7c-3fc0-4a73-aeb5-5ab5507b1963">
+      <archimateRelationship
+          xsi:type="archimate:CompositionRelationship"
+          href="CompositionRelationship_aae5cb6e-5ab0-4503-bb87-8e9c88bb310e.xml#aae5cb6e-5ab0-4503-bb87-8e9c88bb310e"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="6e7d58ec-a491-44f0-9209-2b4b7c6365ee"
+        source="5eda905c-3a97-4f25-8962-9714b9a1147b"
+        target="aabee211-8a3f-4b71-a3ec-bad4b373214c">
+      <archimateRelationship
+          xsi:type="archimate:CompositionRelationship"
+          href="CompositionRelationship_4eb43fcf-de1f-4d16-b171-4bc5062e0cf3.xml#4eb43fcf-de1f-4d16-b171-4bc5062e0cf3"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="2c0e3b0c-cbd5-4cac-9e0d-8bc1f18acbd6"
+        source="5eda905c-3a97-4f25-8962-9714b9a1147b"
+        target="2dcf0730-51da-4e9e-8928-a1af42e57acb">
+      <archimateRelationship
+          xsi:type="archimate:CompositionRelationship"
+          href="CompositionRelationship_e990a82f-6837-4fb1-82da-a7b01fe2c441.xml#e990a82f-6837-4fb1-82da-a7b01fe2c441"/>
+    </sourceConnections>
     <bounds
         x="324"
         y="228"
@@ -137,9 +173,9 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="e2c24e45-253a-41c0-aafb-20a1e815116d"
-        targetConnections="58f2f5f1-10d0-4939-8752-cdbf7975de04 48866eb1-4233-4114-ba77-84e4c7989e01 92dade1b-82ab-47f2-ad23-49bf8a734c59 d5de35a1-2238-4178-b7bb-1748ad2e58f5">
+        targetConnections="58f2f5f1-10d0-4939-8752-cdbf7975de04 48866eb1-4233-4114-ba77-84e4c7989e01 92dade1b-82ab-47f2-ad23-49bf8a734c59 d5de35a1-2238-4178-b7bb-1748ad2e58f5 d21d4fb7-6a2b-4313-a54d-aa8f8eacefbf">
       <bounds
-          x="36"
+          x="24"
           y="36"
           width="145"
           height="55"/>
@@ -149,7 +185,8 @@
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
-        id="4cd0ba7c-3fc0-4a73-aeb5-5ab5507b1963">
+        id="4cd0ba7c-3fc0-4a73-aeb5-5ab5507b1963"
+        targetConnections="e54d5781-e442-4520-bf68-7f7d21e72238">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="80ba7354-e758-4ee3-8405-c744d5e7159a"
@@ -169,7 +206,7 @@
             href="AggregationRelationship_e04d049f-7c79-4634-b74a-c7bdc5d3483e.xml#e04d049f-7c79-4634-b74a-c7bdc5d3483e"/>
       </sourceConnections>
       <bounds
-          x="252"
+          x="228"
           y="36"
           width="145"
           height="55"/>
@@ -180,9 +217,9 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="aabee211-8a3f-4b71-a3ec-bad4b373214c"
-        targetConnections="d8079fed-0b7c-4e65-a5d5-87d3ab4a443f d9b7d79d-e863-4df6-926c-fd5e6588ccaa">
+        targetConnections="d8079fed-0b7c-4e65-a5d5-87d3ab4a443f d9b7d79d-e863-4df6-926c-fd5e6588ccaa 6e7d58ec-a491-44f0-9209-2b4b7c6365ee">
       <bounds
-          x="468"
+          x="444"
           y="36"
           width="147"
           height="55"/>
@@ -193,9 +230,9 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="2dcf0730-51da-4e9e-8928-a1af42e57acb"
-        targetConnections="eec8bcd8-c4eb-4ce3-9de0-b5f99fbcec5e 0414d7f0-75b9-403a-a2d4-e05442580e5d 24de2e68-bc83-4364-b935-c067115418b8">
+        targetConnections="eec8bcd8-c4eb-4ce3-9de0-b5f99fbcec5e 0414d7f0-75b9-403a-a2d4-e05442580e5d 24de2e68-bc83-4364-b935-c067115418b8 2c0e3b0c-cbd5-4cac-9e0d-8bc1f18acbd6">
       <bounds
-          x="672"
+          x="660"
           y="36"
           width="145"
           height="55"/>
