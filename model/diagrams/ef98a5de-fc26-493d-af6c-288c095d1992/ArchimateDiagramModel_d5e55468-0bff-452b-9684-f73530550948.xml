@@ -73,15 +73,15 @@
         source="54e2bda8-a829-4602-91a1-712edc731ffe"
         target="6233f39d-af1c-47ca-9e84-b7c9f7eea6cc">
       <bendpoints
-          startX="108"
+          startX="120"
           startY="-4"
-          endX="-156"
+          endX="-144"
           endY="237"/>
       <bendpoints
-          startX="108"
-          startY="-232"
-          endX="-156"
-          endY="9"/>
+          startX="120"
+          startY="-244"
+          endX="-144"
+          endY="-3"/>
       <archimateRelationship
           xsi:type="archimate:FlowRelationship"
           href="FlowRelationship_a96c45ea-082c-423f-8678-28b4aa6cb94c.xml#a96c45ea-082c-423f-8678-28b4aa6cb94c"/>
@@ -286,7 +286,7 @@
       textAlignment="1">
     <bounds
         x="516"
-        y="396"
+        y="377"
         width="400"
         height="140"/>
     <children
