@@ -7,6 +7,6 @@
       xsi:type="archimate:Path"
       href="Path_578d4779-055d-4bac-a7d5-52b23f88da62.xml#578d4779-055d-4bac-a7d5-52b23f88da62"/>
   <target
-      xsi:type="archimate:Junction"
-      href="Junction_bf7482dc-47a3-4ed6-9ec1-a60d513065f6.xml#bf7482dc-47a3-4ed6-9ec1-a60d513065f6"/>
+      xsi:type="archimate:ApplicationInterface"
+      href="ApplicationInterface_701a3ed0-81bc-4dd7-9df5-703d37b7c882.xml#701a3ed0-81bc-4dd7-9df5-703d37b7c882"/>
 </archimate:FlowRelationship>
