@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Oppslag"
+    id="366b6313-cf98-4ef0-a75e-7c4daaba3b0d">
+  <source
+      xsi:type="archimate:ApplicationInterface"
+      href="ApplicationInterface_f5ba07b5-3496-4e8b-af7c-386c5ce29edc.xml#f5ba07b5-3496-4e8b-af7c-386c5ce29edc"/>
+  <target
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_2c0811b8-4df5-4f7e-b21f-f49eb0172dbd.xml#2c0811b8-4df5-4f7e-b21f-f49eb0172dbd"/>
+</archimate:AssociationRelationship>
