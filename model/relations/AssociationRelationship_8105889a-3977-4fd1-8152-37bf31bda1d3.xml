@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Runtime adresseoppslag "
+    id="8105889a-3977-4fd1-8152-37bf31bda1d3">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_59f608bc-56b0-44fe-b565-bbb24663f622.xml#59f608bc-56b0-44fe-b565-bbb24663f622"/>
+  <target
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_7a472688-2721-474f-a33a-83fcccbcaf84.xml#7a472688-2721-474f-a33a-83fcccbcaf84"/>
+</archimate:AssociationRelationship>
