@@ -27,7 +27,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="eadeec0c-690e-44f2-93d2-918166f2b47b"
-        targetConnections="2ff56521-43aa-4045-a0ae-0017ac137083">
+        targetConnections="2ff56521-43aa-4045-a0ae-0017ac137083 1ab2c9db-ca31-44d3-8d7c-b6218d1ba926">
       <bounds
           x="300"
           y="60"
@@ -292,7 +292,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="0f0d8e1d-e875-47b2-81ed-ea80feed930f"
-        targetConnections="824ae635-23ec-49fe-8372-bcfae8a94895">
+        targetConnections="824ae635-23ec-49fe-8372-bcfae8a94895 ea0f5283-cf0b-4bd4-a95a-6e316a769b52">
       <bounds
           x="36"
           y="36"
@@ -403,5 +403,24 @@
           xsi:type="archimate:ApplicationFunction"
           href="ApplicationFunction_cc73d88e-8790-47c7-978d-27e1d115b4a9.xml#cc73d88e-8790-47c7-978d-27e1d115b4a9"/>
     </children>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="32116c86-9508-4dbb-99fd-615ae20225db"
+      textAlignment="1"
+      content="Hva er forskjellene mellom disse tjenestene? Og hva er ulikhetene? Hvordan flyter data mellom disse?">
+    <sourceConnections
+        id="1ab2c9db-ca31-44d3-8d7c-b6218d1ba926"
+        source="32116c86-9508-4dbb-99fd-615ae20225db"
+        target="eadeec0c-690e-44f2-93d2-918166f2b47b"/>
+    <sourceConnections
+        id="ea0f5283-cf0b-4bd4-a95a-6e316a769b52"
+        source="32116c86-9508-4dbb-99fd-615ae20225db"
+        target="0f0d8e1d-e875-47b2-81ed-ea80feed930f"/>
+    <bounds
+        x="288"
+        y="108"
+        width="185"
+        height="80"/>
   </children>
 </archimate:ArchimateDiagramModel>

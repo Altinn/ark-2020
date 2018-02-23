@@ -39,7 +39,7 @@
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
-        id="ef4dc26f-bc02-4f06-b463-765d312e46ab">
+        id="56bf880a-0d01-4fac-aee2-9a84cc8586a0">
       <bounds
           x="12"
           y="36"
@@ -47,7 +47,7 @@
           height="55"/>
       <archimateElement
           xsi:type="archimate:ApplicationService"
-          href="ApplicationService_0028cb02-6471-4cf0-8d18-0fc316042eb1.xml#0028cb02-6471-4cf0-8d18-0fc316042eb1"/>
+          href="ApplicationService_83ed9fac-3fb1-4f16-adfb-3f945c49f105.xml#83ed9fac-3fb1-4f16-adfb-3f945c49f105"/>
     </children>
   </children>
   <children

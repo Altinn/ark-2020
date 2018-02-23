@@ -46,7 +46,7 @@
           x="12"
           y="36"
           width="207"
-          height="53"/>
+          height="73"/>
       <archimateElement
           xsi:type="archimate:CourseOfAction"
           href="CourseOfAction_fb09ef65-867e-4c89-9b1d-7a474d0f9b2a.xml#fb09ef65-867e-4c89-9b1d-7a474d0f9b2a"/>
@@ -59,7 +59,7 @@
           x="240"
           y="36"
           width="207"
-          height="53"/>
+          height="73"/>
       <archimateElement
           xsi:type="archimate:CourseOfAction"
           href="CourseOfAction_877a0821-22b0-4028-9cff-9bc44aaf759b.xml#877a0821-22b0-4028-9cff-9bc44aaf759b"/>
@@ -72,7 +72,7 @@
           x="468"
           y="36"
           width="207"
-          height="53"/>
+          height="73"/>
       <archimateElement
           xsi:type="archimate:CourseOfAction"
           href="CourseOfAction_1733e79e-2e12-419c-9e53-5b98b2afec8b.xml#1733e79e-2e12-419c-9e53-5b98b2afec8b"/>
@@ -124,7 +124,7 @@
           x="12"
           y="36"
           width="207"
-          height="53"/>
+          height="73"/>
       <archimateElement
           xsi:type="archimate:CourseOfAction"
           href="CourseOfAction_8a8beb7b-f15e-4ba0-bf18-a042989de542.xml#8a8beb7b-f15e-4ba0-bf18-a042989de542"/>
@@ -137,7 +137,7 @@
           x="240"
           y="36"
           width="207"
-          height="53"/>
+          height="73"/>
       <archimateElement
           xsi:type="archimate:CourseOfAction"
           href="CourseOfAction_041b93c1-d741-407c-8599-c9c3a0155557.xml#041b93c1-d741-407c-8599-c9c3a0155557"/>
@@ -150,7 +150,7 @@
           x="468"
           y="36"
           width="207"
-          height="53"/>
+          height="73"/>
       <archimateElement
           xsi:type="archimate:CourseOfAction"
           href="CourseOfAction_a0f953bf-7a94-4ce2-881d-35358be9faf7.xml#a0f953bf-7a94-4ce2-881d-35358be9faf7"/>
@@ -202,7 +202,7 @@
           x="468"
           y="48"
           width="207"
-          height="53"/>
+          height="73"/>
       <archimateElement
           xsi:type="archimate:CourseOfAction"
           href="CourseOfAction_0ce80e47-3a77-47ba-96eb-9ba991191783.xml#0ce80e47-3a77-47ba-96eb-9ba991191783"/>
@@ -215,7 +215,7 @@
           x="240"
           y="48"
           width="207"
-          height="53"/>
+          height="73"/>
       <archimateElement
           xsi:type="archimate:CourseOfAction"
           href="CourseOfAction_10543a4b-65a1-448f-9c36-571fb29c282d.xml#10543a4b-65a1-448f-9c36-571fb29c282d"/>
@@ -228,7 +228,7 @@
           x="12"
           y="48"
           width="207"
-          height="53"/>
+          height="73"/>
       <archimateElement
           xsi:type="archimate:CourseOfAction"
           href="CourseOfAction_75e80655-d95a-4229-9ad5-18c5927ca0cf.xml#75e80655-d95a-4229-9ad5-18c5927ca0cf"/>
