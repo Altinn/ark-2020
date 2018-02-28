@@ -53,9 +53,9 @@
             href="FlowRelationship_7aea87dc-b496-4a09-92fc-bf3fe4d357e8.xml#7aea87dc-b496-4a09-92fc-bf3fe4d357e8"/>
       </sourceConnections>
       <bounds
-          x="336"
+          x="324"
           y="336"
-          width="120"
+          width="145"
           height="55"/>
       <archimateElement
           xsi:type="archimate:ApplicationComponent"

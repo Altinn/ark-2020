@@ -1,4 +1,17 @@
 <archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="KoFuVi vs Difi"
-    id="ae71d5a9-2f9f-4f30-9383-9d09cf0acedc"/>
+    id="ae71d5a9-2f9f-4f30-9383-9d09cf0acedc">
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="fdcc22ad-ce47-482d-995b-d88b0ef955c8"
+      textAlignment="1"
+      content="Forklare:&#xD;&#xA;- brukscase integrasjonspunktet&#xD;&#xA;- brukscase KoFuVi&#xD;&#xA;- brukscase Peppol&#xD;&#xA;&#xD;&#xA;MÅ GJØRES SAMMEN MED DIFI&#xD;&#xA;">
+    <bounds
+        x="84"
+        y="53"
+        width="325"
+        height="176"/>
+  </children>
+</archimate:ArchimateDiagramModel>

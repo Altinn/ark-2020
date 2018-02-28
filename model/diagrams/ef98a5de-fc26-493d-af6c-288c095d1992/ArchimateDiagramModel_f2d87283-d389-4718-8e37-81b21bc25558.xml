@@ -304,4 +304,14 @@
           href="ApplicationComponent_c175e428-21f9-4bd0-9994-4929490ea4a7.xml#c175e428-21f9-4bd0-9994-4929490ea4a7"/>
     </children>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="ccfec233-8713-42cf-b0c7-23c316170d6a"
+      textAlignment="1"
+      content="Løsningen er så langt satt på hold...&#xD;&#xA;">
+    <bounds
+        x="24"
+        width="409"
+        height="49"/>
+  </children>
 </archimate:ArchimateDiagramModel>
