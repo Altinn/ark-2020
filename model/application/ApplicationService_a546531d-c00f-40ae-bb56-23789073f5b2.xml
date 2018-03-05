@@ -1,4 +1,5 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Data Service"
-    id="a546531d-c00f-40ae-bb56-23789073f5b2"/>
+    name="Data tjeneste"
+    id="a546531d-c00f-40ae-bb56-23789073f5b2"
+    documentation="Noe tilsvarende dagens ServiceEngine og Archive."/>

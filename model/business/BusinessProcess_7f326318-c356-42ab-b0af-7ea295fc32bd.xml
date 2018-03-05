@@ -1,4 +1,5 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="QA"
-    id="7f326318-c356-42ab-b0af-7ea295fc32bd"/>
+    id="7f326318-c356-42ab-b0af-7ea295fc32bd"
+    documentation="En QA-prosess for godkjenning av endringer basert på branching og pull requests, vil for større teams kunne være mulig. Dette er i tråd med hvordan programvare utvikles, inkludert selve Altinn."/>

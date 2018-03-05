@@ -1,4 +1,5 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="UX Assembly Service"
-    id="0b1e6407-6306-435f-89a7-e4e1d56361df"/>
+    name="Brukergrensesnitt tjeneste"
+    id="0b1e6407-6306-435f-89a7-e4e1d56361df"
+    documentation="Et &quot;live&quot; designsystem&#xD;&#xA;* Definere en eller flere visninger for tjenesten&#xD;&#xA;* Definere layout&#xD;&#xA;* Definere navigasjon mellom visninger, sporvalg&#xD;&#xA;* Konfiguering av webkomponenter&#xD;&#xA;* Velge &quot;look &amp; feel&quot;"/>

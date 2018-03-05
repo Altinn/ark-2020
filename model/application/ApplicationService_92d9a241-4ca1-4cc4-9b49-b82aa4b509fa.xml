@@ -1,4 +1,5 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Git tagging and release service"
-    id="92d9a241-4ca1-4cc4-9b49-b82aa4b509fa"/>
+    name="Git tagging og release tjeneste"
+    id="92d9a241-4ca1-4cc4-9b49-b82aa4b509fa"
+    documentation="En svært viktig egenskap når man utvikler programvare (noe som 3.0-tjenester er) er å kunne tagge ulike versjoner, og kunne gå tilbake og teste eller patche en tidligere versjon hvis man ønsker det. Det er også viktig å kunne se alt som har endret seg mellom versjonene.&#xD;&#xA;&#xD;&#xA;Siden Git benyttes for versjonering, så vil en release/tag som opprettes peke på en eksakt versjon av hver eneste fil som en 3.0-tjeneste består av, og man kan enkelt se hva som er endret.&#xD;&#xA;&#xD;&#xA;- opprette tagger for 3.0-tjeneten&#xD;&#xA;- lenke til tagger&#xD;&#xA;- opprette og slette releaser&#xD;&#xA;- markerere pre-releaser&#xD;&#xA;- lenke til tagger&#xD;&#xA;- tidsstempel for releaseopprettelse&#xD;&#xA;- se bruker som trigget release&#xD;&#xA;- last ned zipfil av release&#xD;&#xA;- se gjennom innhold av gitt tag/release&#xD;&#xA;"/>

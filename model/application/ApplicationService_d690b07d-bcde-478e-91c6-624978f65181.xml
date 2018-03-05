@@ -1,4 +1,5 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Access Management Service"
-    id="d690b07d-bcde-478e-91c6-624978f65181"/>
+    name="Tilgangsstyrings- tjeneste"
+    id="d690b07d-bcde-478e-91c6-624978f65181"
+    documentation="Det skal være mulig å styre tilgang til repositories, les/skriv/admin, teams, brukere, samt opprette private repos.&#xD;&#xA;- tilgang til 3.0 tjenester (skrive og lese)&#xD;&#xA;- tilgangsstyring for organisasjoner&#xD;&#xA;- tilgangsstyring for brukere&#xD;&#xA;- skape private og offentlige repos&#xD;&#xA;- administratortilgang&#xD;&#xA;- AM/AD-integrasjon&#xD;&#xA;- API-tilgang&#xD;&#xA;"/>

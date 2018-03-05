@@ -1,4 +1,5 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Assembling UX"
-    id="4b15da5a-3136-4fab-a9a3-7314aeb21b06"/>
+    name="Bygge brukergrensesnitt"
+    id="4b15da5a-3136-4fab-a9a3-7314aeb21b06"
+    documentation="Et &quot;live&quot; designsystem&#xD;&#xA;* Definere en eller flere visninger for tjenesten&#xD;&#xA;* Definere layout&#xD;&#xA;* Definere navigasjon mellom visninger, sporvalg&#xD;&#xA;* Konfiguering av webkomponenter&#xD;&#xA;* Velge &quot;look &amp; feel&quot;"/>

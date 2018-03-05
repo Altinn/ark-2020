@@ -1,4 +1,5 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="User Management Service"
-    id="f92c0304-fd19-4bd0-85ea-7cf86084c90b"/>
+    name="Brukerstyrings- tjeneste"
+    id="f92c0304-fd19-4bd0-85ea-7cf86084c90b"
+    documentation="Brukerne i denne sammenheng er tjenesteutvklerne. Det å håndtere organisasjonen skal være helt selvbetjent.&#xD;&#xA;- legge til eller fjerne brukere&#xD;&#xA;- navn&#xD;&#xA;- avatar&#xD;&#xA;- legge til og fjerne brukere fra team&#xD;&#xA;- definere favoritt-repositories&#xD;&#xA;- liste opp repostiories og forks per bruker&#xD;&#xA;- aktivitetslogg for bruker&#xD;&#xA;- arbeidsområde for bruker"/>

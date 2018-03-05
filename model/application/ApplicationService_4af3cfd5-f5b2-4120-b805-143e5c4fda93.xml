@@ -1,4 +1,5 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Git Versioning Service"
-    id="4af3cfd5-f5b2-4120-b805-143e5c4fda93"/>
+    name="Git versjonerings tjeneste"
+    id="4af3cfd5-f5b2-4120-b805-143e5c4fda93"
+    documentation="Hver eneste fil som en 3.0-tjeneste består av skal ha full versjonshistorikk, uavhengig av om man jobber mot filene via Designer eller eksternt og distribuert/lokalt i en kodeeditor på egen maskin. Repositories sitt versjonskontrollsystem, som er basert på Git, er laget nettopp med tanke på dette.&#xD;&#xA;&#xD;&#xA;- Versionshistorikk for alle filer, artefakter, kode og konfigurasjonhistory &#xD;&#xA; - Lenke til hver endring med unik ID&#xD;&#xA; - Lenke til hver endret fil&#xD;&#xA; - Lenke til den som gjorde endringen&#xD;&#xA; - Uthev siste endring i repo&#xD;&#xA; - Tidspunkt for endring&#xD;&#xA; - Kommentarer og meldinger&#xD;&#xA;- Diff mellom versjoner"/>

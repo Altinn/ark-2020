@@ -1,4 +1,5 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Reusable Asset Creation service"
-    id="6c93c0fa-4a89-4f45-8972-b49ccaae7c4b"/>
+    name="Tjeneste for å skape gjenbrukbare ressurser"
+    id="6c93c0fa-4a89-4f45-8972-b49ccaae7c4b"
+    documentation="Det skal være mulig å lage gjenbrukbare ressurser, som:&#xD;&#xA;- webkomponenter (f.eks. i React)&#xD;&#xA;- Layouts&#xD;&#xA;- Look&amp;feel&#xD;&#xA;- Tekster og oversettelser&#xD;&#xA;- Kodelister&#xD;&#xA;- Logikk (f.eks gjennom C#, TypeScript, WebAssembly)&#xD;&#xA;- Datamodeller (tilsv. Seres)&#xD;&#xA;- API-kall&#xD;&#xA;&#xD;&#xA;Å lage nye web componenter og layouts vil typisk være noe som tekniske utviklere gjør i kode-editorer.&#xD;&#xA;Det å sette disse sammen og konfigurere dem, er noe alle skal kunne gjøre."/>

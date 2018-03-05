@@ -2,7 +2,7 @@
 <html class="frame" lang="en">
 <head>
 	<meta http-equiv="Content-Type" content="text/html;charset=utf-8">
-	<title>Workflow Service</title>
+	<title>Workflow tjeneste</title>
 
 	<!-- JQUERY (use 1.x branch to be compatible with IE 6/7/8) -->
 	<script type="text/javascript" src="../../lib/jquery/js/jquery-1.11.2.min.js"></script>
@@ -20,7 +20,7 @@
 <body>
 	<div class="panel panel-default root-panel">
 		<div class="panel-heading root-panel-heading">
-			<b>Workflow Service</b>
+			<b>Workflow tjeneste</b>
 			(<span class="i18n-elementtype-ApplicationService"></span>)
 			<a class="glyphicon glyphicon-info-sign" id="hint-ApplicationService" target="hint"></a>
 		</div>
@@ -35,7 +35,16 @@
 				<!-- Tab panes -->
 				<div class="tab-content">
 					<div role="tabpanel" class="tab-pane active" id="documentation">
-						<textarea id="docsrc" style="display:none"></textarea>
+						<textarea id="docsrc" style="display:none">Arbeidsflyten til en tjeneste vil være ekstremt sentral, og den må bli mye mer fleksibel enn i dag.
+
+Skal hånterer alle steg på en enhetlig måte:
+
+Start av tjenesten (er i dag hardkodet inn i portal)
+Flyt internt tjenesten (er i dag en egen workflow subkomponent i SBL og prosessflyt i TUL)
+Signering (i dag hardkodet inn i portal)
+Arkivering (i dag hardkodet inn i portal)
+Flyt internt i skjemaet (håndteres i dag av sporvalg i TUL)
+Flyt i samhandling (håndteres i dag av en egen process manager komponent i SBL og med definisjon av tilstander i TUL)</textarea>
 						<div id="doctgt" style="white-space:pre-wrap"></div>
 					</div>
 					<div role="tabpanel" class="tab-pane" id="properties">

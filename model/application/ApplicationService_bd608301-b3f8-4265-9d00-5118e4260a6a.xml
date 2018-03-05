@@ -1,4 +1,5 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Wiki and markdown service"
-    id="bd608301-b3f8-4265-9d00-5118e4260a6a"/>
+    name="Wiki og markdown Tjeneste"
+    id="bd608301-b3f8-4265-9d00-5118e4260a6a"
+    documentation="Det er viktig å ha god støtte for å dokumentere tjenestene man utvikler, slik at det vil være enkelt for andre personer på teamet å bidra. Det er derfor ønskelig å ha innebygd Wiki-funksjonalitet med støtte for å editere i markdown, slik som i Altinn docs og AltinnPedia.&#xD;&#xA;&#xD;&#xA;Wiki&#xD;&#xA;- Legge til, redigere og slette sider&#xD;&#xA;- Lenke til spesifikk wiki-side&#xD;&#xA;- Støtte eksterne wikis&#xD;&#xA;- Emojis :)&#xD;&#xA;&#xD;&#xA;Markdown redigering&#xD;&#xA;- forhåndsvising &#xD;&#xA;- fullskjerm&#xD;&#xA;- side-ved-side"/>

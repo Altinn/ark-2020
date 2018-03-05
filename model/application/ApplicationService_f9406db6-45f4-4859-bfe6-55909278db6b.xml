@@ -1,4 +1,5 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Publishing Service"
-    id="f9406db6-45f4-4859-bfe6-55909278db6b"/>
+    name="Deployment tjeneste"
+    id="f9406db6-45f4-4859-bfe6-55909278db6b"
+    documentation="3.0-tjenester skal når som helst kunne deployes til produksjon, uten å måtte involvere Altinn-organisasjonen eller dens leverandører. Designer vil typisk gjøre API-kall mot Repositories for å få tilbake en liste over releaser, og så gjøre et API-kall mot Runtime for å initiere deploy.&#xD;&#xA;&#xD;&#xA;Selvbetjent deploy til testmiljøer og prod"/>

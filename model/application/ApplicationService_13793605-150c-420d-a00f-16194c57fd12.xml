@@ -1,4 +1,5 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Authentication Service"
-    id="13793605-150c-420d-a00f-16194c57fd12"/>
+    name="Autentiseringstjeneste"
+    id="13793605-150c-420d-a00f-16194c57fd12"
+    documentation="Tjenesteutviklere og andre interessenter skal kunne logge inn og få tilgang til organisasjoner og 3.0-tjenester.&#xD;&#xA;- Login-side&#xD;&#xA;- CAPTCHA?&#xD;&#xA;- Glemt passord&#xD;&#xA;- 2-faktor autentisering&#xD;&#xA;- ekstern autentisering"/>

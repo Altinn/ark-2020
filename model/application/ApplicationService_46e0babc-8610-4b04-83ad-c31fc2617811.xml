@@ -1,4 +1,5 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Search Service"
-    id="46e0babc-8610-4b04-83ad-c31fc2617811"/>
+    name="Søketjeneste"
+    id="46e0babc-8610-4b04-83ad-c31fc2617811"
+    documentation="Søk er viktig for å finne frem, og må være bygget inn i løsningen&#xD;&#xA;- repositories&#xD;&#xA;- issues&#xD;&#xA;- edits&#xD;&#xA;- brukere&#xD;&#xA;- organisasjoner"/>

@@ -2,7 +2,7 @@
 <html class="frame" lang="en">
 <head>
 	<meta http-equiv="Content-Type" content="text/html;charset=utf-8">
-	<title>Git tagging and release service</title>
+	<title>Git tagging og release tjeneste</title>
 
 	<!-- JQUERY (use 1.x branch to be compatible with IE 6/7/8) -->
 	<script type="text/javascript" src="../../lib/jquery/js/jquery-1.11.2.min.js"></script>
@@ -20,7 +20,7 @@
 <body>
 	<div class="panel panel-default root-panel">
 		<div class="panel-heading root-panel-heading">
-			<b>Git tagging and release service</b>
+			<b>Git tagging og release tjeneste</b>
 			(<span class="i18n-elementtype-ApplicationService"></span>)
 			<a class="glyphicon glyphicon-info-sign" id="hint-ApplicationService" target="hint"></a>
 		</div>
@@ -35,7 +35,20 @@
 				<!-- Tab panes -->
 				<div class="tab-content">
 					<div role="tabpanel" class="tab-pane active" id="documentation">
-						<textarea id="docsrc" style="display:none"></textarea>
+						<textarea id="docsrc" style="display:none">En svært viktig egenskap når man utvikler programvare (noe som 3.0-tjenester er) er å kunne tagge ulike versjoner, og kunne gå tilbake og teste eller patche en tidligere versjon hvis man ønsker det. Det er også viktig å kunne se alt som har endret seg mellom versjonene.
+
+Siden Git benyttes for versjonering, så vil en release/tag som opprettes peke på en eksakt versjon av hver eneste fil som en 3.0-tjeneste består av, og man kan enkelt se hva som er endret.
+
+- opprette tagger for 3.0-tjeneten
+- lenke til tagger
+- opprette og slette releaser
+- markerere pre-releaser
+- lenke til tagger
+- tidsstempel for releaseopprettelse
+- se bruker som trigget release
+- last ned zipfil av release
+- se gjennom innhold av gitt tag/release
+</textarea>
 						<div id="doctgt" style="white-space:pre-wrap"></div>
 					</div>
 					<div role="tabpanel" class="tab-pane" id="properties">

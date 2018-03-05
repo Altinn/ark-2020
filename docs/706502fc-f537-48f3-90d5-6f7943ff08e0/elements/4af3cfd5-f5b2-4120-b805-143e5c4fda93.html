@@ -2,7 +2,7 @@
 <html class="frame" lang="en">
 <head>
 	<meta http-equiv="Content-Type" content="text/html;charset=utf-8">
-	<title>Git Versioning Service</title>
+	<title>Git versjonerings tjeneste</title>
 
 	<!-- JQUERY (use 1.x branch to be compatible with IE 6/7/8) -->
 	<script type="text/javascript" src="../../lib/jquery/js/jquery-1.11.2.min.js"></script>
@@ -20,7 +20,7 @@
 <body>
 	<div class="panel panel-default root-panel">
 		<div class="panel-heading root-panel-heading">
-			<b>Git Versioning Service</b>
+			<b>Git versjonerings tjeneste</b>
 			(<span class="i18n-elementtype-ApplicationService"></span>)
 			<a class="glyphicon glyphicon-info-sign" id="hint-ApplicationService" target="hint"></a>
 		</div>
@@ -35,7 +35,16 @@
 				<!-- Tab panes -->
 				<div class="tab-content">
 					<div role="tabpanel" class="tab-pane active" id="documentation">
-						<textarea id="docsrc" style="display:none"></textarea>
+						<textarea id="docsrc" style="display:none">Hver eneste fil som en 3.0-tjeneste består av skal ha full versjonshistorikk, uavhengig av om man jobber mot filene via Designer eller eksternt og distribuert/lokalt i en kodeeditor på egen maskin. Repositories sitt versjonskontrollsystem, som er basert på Git, er laget nettopp med tanke på dette.
+
+- Versionshistorikk for alle filer, artefakter, kode og konfigurasjonhistory 
+ - Lenke til hver endring med unik ID
+ - Lenke til hver endret fil
+ - Lenke til den som gjorde endringen
+ - Uthev siste endring i repo
+ - Tidspunkt for endring
+ - Kommentarer og meldinger
+- Diff mellom versjoner</textarea>
 						<div id="doctgt" style="white-space:pre-wrap"></div>
 					</div>
 					<div role="tabpanel" class="tab-pane" id="properties">

@@ -2,7 +2,7 @@
 <html class="frame" lang="en">
 <head>
 	<meta http-equiv="Content-Type" content="text/html;charset=utf-8">
-	<title>Repository Service</title>
+	<title>Repository tjeneste</title>
 
 	<!-- JQUERY (use 1.x branch to be compatible with IE 6/7/8) -->
 	<script type="text/javascript" src="../../lib/jquery/js/jquery-1.11.2.min.js"></script>
@@ -20,7 +20,7 @@
 <body>
 	<div class="panel panel-default root-panel">
 		<div class="panel-heading root-panel-heading">
-			<b>Repository Service</b>
+			<b>Repository tjeneste</b>
 			(<span class="i18n-elementtype-ApplicationService"></span>)
 			<a class="glyphicon glyphicon-info-sign" id="hint-ApplicationService" target="hint"></a>
 		</div>
@@ -35,7 +35,24 @@
 				<!-- Tab panes -->
 				<div class="tab-content">
 					<div role="tabpanel" class="tab-pane active" id="documentation">
-						<textarea id="docsrc" style="display:none"></textarea>
+						<textarea id="docsrc" style="display:none">Håndtering av repositories er en kjerneaktivitet, da hver tjeneste som utvikles vil lagres i sitt eget repository.
+
+- Opprette og slette repository
+- Lenke til repository
+- Gi nytt navn til repository
+- Forke repository
+ - Muliggjør at man kan ha et “master”-repository med felles tjenester som flere andre kan benytte, slik som dagens “master-tjenester” bare mye kraftigere
+ - Muliggjør også at utviklere kan lage som egen kopi og teste ut nye muligheter og løsninger på sitt eget område uten å påvirke originalen
+- Liste repositories
+- Laste opp/ned filer
+- Laste ned repo
+- Lage filer og mapper
+- Lese og redigere filer
+- Endre navn på filer og mapper
+- Slette filer og mapper
+- Se råfiler
+- Lenke til filer
+</textarea>
 						<div id="doctgt" style="white-space:pre-wrap"></div>
 					</div>
 					<div role="tabpanel" class="tab-pane" id="properties">

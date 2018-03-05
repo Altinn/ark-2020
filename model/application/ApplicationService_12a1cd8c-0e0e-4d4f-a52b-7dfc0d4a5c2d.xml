@@ -1,4 +1,5 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Logic Definiton Service"
-    id="12a1cd8c-0e0e-4d4f-a52b-7dfc0d4a5c2d"/>
+    name="Logikk tjeneste"
+    id="12a1cd8c-0e0e-4d4f-a52b-7dfc0d4a5c2d"
+    documentation="Logikk som kjører i tjenesten. Er ekstremt viktig å få dette riktig, brukervennlig og fungerende på tvers av kanaler og på tvers av front-end og back-end."/>

@@ -1,4 +1,5 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Repository Service"
-    id="8526cab5-e09e-444f-abdb-53d3a60f5942"/>
+    name="Repository tjeneste"
+    id="8526cab5-e09e-444f-abdb-53d3a60f5942"
+    documentation="Håndtering av repositories er en kjerneaktivitet, da hver tjeneste som utvikles vil lagres i sitt eget repository.&#xD;&#xA;&#xD;&#xA;- Opprette og slette repository&#xD;&#xA;- Lenke til repository&#xD;&#xA;- Gi nytt navn til repository&#xD;&#xA;- Forke repository&#xD;&#xA; - Muliggjør at man kan ha et “master”-repository med felles tjenester som flere andre kan benytte, slik som dagens “master-tjenester” bare mye kraftigere&#xD;&#xA; - Muliggjør også at utviklere kan lage som egen kopi og teste ut nye muligheter og løsninger på sitt eget område uten å påvirke originalen&#xD;&#xA;- Liste repositories&#xD;&#xA;- Laste opp/ned filer&#xD;&#xA;- Laste ned repo&#xD;&#xA;- Lage filer og mapper&#xD;&#xA;- Lese og redigere filer&#xD;&#xA;- Endre navn på filer og mapper&#xD;&#xA;- Slette filer og mapper&#xD;&#xA;- Se råfiler&#xD;&#xA;- Lenke til filer&#xD;&#xA;"/>

@@ -1,4 +1,5 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Issues Service"
-    id="2d1ec9a9-de79-4dc4-87b2-a82b46d2eb07"/>
+    name="Issues tjeneste"
+    id="2d1ec9a9-de79-4dc4-87b2-a82b46d2eb07"
+    documentation="Som for all annen programvareutvikling, så vil hver 3.0-tjeneste typisk ha en egen backlog med bugs, forbedringer, fremtidige features, etc. som tjenesteutviklerne vil jobbe mot. Dette er en sentral del av Application Lifecycle Management.&#xD;&#xA;&#xD;&#xA;- opprette og lukke issues i 3.0-tjenesten&#xD;&#xA; - tid for opprettelse&#xD;&#xA; - hvem opprettet/lukket&#xD;&#xA;- filtrering av issues på status&#xD;&#xA;- legge til etikett&#xD;&#xA; - filtrering av issues pr. etikett&#xD;&#xA;- knytt issues til milepæl &#xD;&#xA; - filtrer issues pr milepæl&#xD;&#xA;- tilordne saker til bruker&#xD;&#xA; - filtrere saker pr bruker&#xD;&#xA;- redigere markdown&#xD;&#xA;- diskusjoner&#xD;&#xA;- legge til filer til issues&#xD;&#xA;- notifikasjon når saker endres&#xD;&#xA;- søk etter issues&#xD;&#xA;- listing av issues"/>

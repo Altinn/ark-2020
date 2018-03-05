@@ -1,4 +1,5 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Text editing Service"
-    id="5704b38c-90b0-4389-a7d6-2ac221ff7c1b"/>
+    name="Tekstredigerings tjeneste"
+    id="5704b38c-90b0-4389-a7d6-2ac221ff7c1b"
+    documentation="Enkel of effektiv behandling av tekster og oversettinger er utrolig viktig i en tjenesteuviklingsløsning, og ikke minst enkel gjenbruk av tekster på tvers av flere tjenester.&#xD;&#xA;&#xD;&#xA;Editoren for tekster skal lagre hvert språk som enkel JSON-fil som effektivt kan jobbes direkte på i kodeeditorer eller konverteres til formater som eksterne oversettelsesverktøy benytter. Dette gjør også at 3.0 kan støtte vilkårlige språk, selv språk som ikke er støtte av Altinn-portalen.&#xD;&#xA;&#xD;&#xA;- Definering av tekster med hierarkiske og lesbare nøkler&#xD;&#xA;- Gjenbruk av tekster, internt på tvers av sider og i valideringer, og fra nivåene over tjenesten&#xD;&#xA;- Oversetting&#xD;&#xA;- Kunne legge til vilkårlige språk&#xD;&#xA;"/>

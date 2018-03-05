@@ -1,4 +1,5 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Notification Service"
-    id="0009c667-2f31-4e02-8ddb-3495a5420b49"/>
+    name="Varslingstjeneste"
+    id="0009c667-2f31-4e02-8ddb-3495a5420b49"
+    documentation="Sende varslinger til brukere av Repositories basert på hendelser eller mentions&#xD;&#xA;Brukere kan styre hvilke varslinger de skal motta&#xD;&#xA;Brukere skal kunne følge andre brukere og følge issues "/>

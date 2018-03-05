@@ -1,4 +1,5 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Webhooks service"
-    id="bf6f80a7-71a4-44c6-8d2f-116093a0093f"/>
+    name="Webhooks tjeneste"
+    id="bf6f80a7-71a4-44c6-8d2f-116093a0093f"
+    documentation="I dagens hverdag, med bruk av Slack og andre systemer ifbm. utvikling, så er det viktig at “Repositories” kan trigge hendelser i andre systemer, f.eks. poste til en Slack-kanal når en endring skjer i en 3.0-tjeneste.&#xD;&#xA;- Trigger hendelser på org-nivå&#xD;&#xA;- Trigge hendelser på 3.0-nivå"/>

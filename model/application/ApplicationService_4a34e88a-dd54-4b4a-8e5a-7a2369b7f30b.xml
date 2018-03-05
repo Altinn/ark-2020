@@ -1,4 +1,5 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Data modelling service"
-    id="4a34e88a-dd54-4b4a-8e5a-7a2369b7f30b"/>
+    name="Data modellering tjeneste"
+    id="4a34e88a-dd54-4b4a-8e5a-7a2369b7f30b"
+    documentation="Tanken er at det å ha en modell for tjenestedataene vil gi en del fordeler, som f.eks. enhetlig validering på tvers av kanaler, enklere å automatisere testing, enklere å avdekke feil i regler, formell definisjon av dataformat for eksterne systemer, etc.&#xD;&#xA;&#xD;&#xA;- Enkel modellering av data&#xD;&#xA;- Innebygd erstatning for SERES ifbm. tjenesteutvikling&#xD;&#xA;- Må støtte flere formater, sannsynligvis et JSON-format som default, og som kan konverteres til XML for de eksterne som foretrekker det&#xD;&#xA;- For å forenkle konvertering av dagens XSD-baserte InfoPath-skjema, så må konvertering til/fra disse formatene støttes i runtime"/>

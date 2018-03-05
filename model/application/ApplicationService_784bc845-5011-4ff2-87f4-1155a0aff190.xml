@@ -1,4 +1,5 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Org Management Service"
-    id="784bc845-5011-4ff2-87f4-1155a0aff190"/>
+    name="Org Management tjeneste"
+    id="784bc845-5011-4ff2-87f4-1155a0aff190"
+    documentation="Organisasjoner er typisk tjenesteeiere, men i 3.0 er det ikke noe i veien for at konsulenthus som bedriver tjenesteutvikling også kan ha sine egne organisasjoner. I en organisasjon så kan man gi tilganger til brukere, og man kan opprette teams med tilgang til en eller flere 3.0-tjenester. Det å håndtere organisasjonen, som alt annet, skal være 100% selvbetjent.&#xD;&#xA;- opprette og slette organisasjoner&#xD;&#xA;- opprette navn og kallenavn&#xD;&#xA;- lenke til organisasjoner&#xD;&#xA;- logo&#xD;&#xA;- liste organisasjoner&#xD;&#xA;- opprette repository for organisasjonen, se reporsitory management&#xD;&#xA;- legge til og fjerne teams fra organisasjonen&#xD;&#xA;- liste teams i en organisasjon&#xD;&#xA;- legge til og fjerne brukere i en organisasjon&#xD;&#xA;- liste alle brukere i en organisasjon&#xD;&#xA;- liste brukere i et team&#xD;&#xA;"/>
