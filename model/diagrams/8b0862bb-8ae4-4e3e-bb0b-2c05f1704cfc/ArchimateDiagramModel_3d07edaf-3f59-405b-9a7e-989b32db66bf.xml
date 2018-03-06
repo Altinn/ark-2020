@@ -9,7 +9,7 @@
       targetConnections="e5431016-d1ec-44c9-ad90-c758c764fe16 b14994f5-f690-4f65-a014-62567dbb2ca3">
     <bounds
         x="-108"
-        y="168"
+        y="144"
         width="300"
         height="55"/>
     <archimateElement
@@ -105,7 +105,7 @@
       targetConnections="c77b987b-c4ad-4cdc-97d9-a861d7fdcd07 103a9ce3-31bb-433c-900f-6cfa025dcfc3 d152b1ca-6708-497f-8653-c1d5c171a192">
     <bounds
         x="225"
-        y="168"
+        y="144"
         width="784"
         height="55"/>
     <archimateElement
@@ -223,7 +223,8 @@
       textAlignment="1"
       content="Hvor ligger Admin&#xD;&#xA;">
     <bounds
-        x="48"
+        x="-108"
+        y="72"
         width="185"
         height="61"/>
   </children>
@@ -231,9 +232,10 @@
       xsi:type="archimate:DiagramModelNote"
       id="fa7b91fe-1ad3-4f93-a258-cdf5e078c4e4"
       textAlignment="1"
-      content="Er ikke Autorisasjon og Integrasjon en del av 3.0 runtime">
+      content="Forholdet mellom Autorisasjon og Integrasjon vs 3.0 runtime">
     <bounds
-        x="312"
+        x="444"
+        y="60"
         width="185"
         height="61"/>
   </children>
