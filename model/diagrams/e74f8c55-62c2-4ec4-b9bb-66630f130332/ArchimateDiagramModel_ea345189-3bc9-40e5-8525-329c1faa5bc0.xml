@@ -248,4 +248,15 @@
         width="158"
         height="80"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="4ac11583-aa18-463c-8903-9925636c4906"
+      textAlignment="1"
+      content="Hvordan modellere og representere tjenestetyper som  finnes i dagens arkitektur: &#xD;&#xA;- betaling&#xD;&#xA;- signering&#xD;&#xA;- innsendingstjeneste&#xD;&#xA;- meldingstjeneste&#xD;&#xA;- Digital post til virksomheter (DPV&#xD;&#xA;- Videresending til DPI'&#xD;&#xA;- innsyn">
+    <bounds
+        x="696"
+        y="240"
+        width="245"
+        height="171"/>
+  </children>
 </archimate:ArchimateDiagramModel>
