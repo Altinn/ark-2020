@@ -219,17 +219,6 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelNote"
-      id="81e76ba8-9240-4119-b822-5ea71010ea13"
-      textAlignment="1"
-      content="Hvor ligger Admin&#xD;&#xA;">
-    <bounds
-        x="-108"
-        y="72"
-        width="185"
-        height="61"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelNote"
       id="fa7b91fe-1ad3-4f93-a258-cdf5e078c4e4"
       textAlignment="1"
       content="Forholdet mellom Autorisasjon og Integrasjon vs 3.0 runtime">

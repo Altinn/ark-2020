@@ -1,0 +1,13 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Enhetsinformasjon"
+    id="88d82524-e5f5-41be-8b7e-5c4590f003f2"
+    accessType="1">
+  <source
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_15030373-f448-4e59-b931-301cdbb82866.xml#15030373-f448-4e59-b931-301cdbb82866"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_289fc7de-96d3-456f-90b3-252e2037ea89.xml#289fc7de-96d3-456f-90b3-252e2037ea89"/>
+</archimate:AccessRelationship>

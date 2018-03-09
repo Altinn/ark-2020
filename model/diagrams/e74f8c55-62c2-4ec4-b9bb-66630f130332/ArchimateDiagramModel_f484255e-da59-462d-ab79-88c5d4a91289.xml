@@ -209,4 +209,15 @@
         xsi:type="archimate:BusinessProcess"
         href="BusinessProcess_ce195bcf-9df0-4d59-81e4-d5e0b963772b.xml#ce195bcf-9df0-4d59-81e4-d5e0b963772b"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="61ff9c39-d261-4594-ac63-8ac4b345f21d"
+      textAlignment="1"
+      content="Hvordan skal vi modellere inn tjenester som &quot;eksisterer i dag&quot; - hvilke funksjoner &#xD;&#xA;- ">
+    <bounds
+        x="927"
+        y="408"
+        width="185"
+        height="80"/>
+  </children>
 </archimate:ArchimateDiagramModel>
