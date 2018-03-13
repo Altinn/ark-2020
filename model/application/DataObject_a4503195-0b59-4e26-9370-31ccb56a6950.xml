@@ -1,4 +1,5 @@
 <archimate:DataObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Digitale adresser for eMeldinger"
-    id="a4503195-0b59-4e26-9370-31ccb56a6950"/>
+    name="Digitale kontaktopplysninger"
+    id="a4503195-0b59-4e26-9370-31ccb56a6950"
+    documentation="URL, URI eller endepunktsadresser &#xD;&#xA;Meldings- og saksbehandlingsstandarder (for oppslag fra ELMA)"/>
