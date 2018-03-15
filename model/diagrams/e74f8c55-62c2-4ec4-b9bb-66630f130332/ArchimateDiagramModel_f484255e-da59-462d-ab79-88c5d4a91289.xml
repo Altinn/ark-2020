@@ -464,11 +464,11 @@
       xsi:type="archimate:DiagramModelNote"
       id="61ff9c39-d261-4594-ac63-8ac4b345f21d"
       textAlignment="1"
-      content="Hvordan skal vi modellere inn tjenester som &quot;eksisterer i dag&quot; - hvilke funksjoner &#xD;&#xA;- ">
+      content="Hvordan skal vi modellere inn tjenester som &quot;eksisterer i dag&quot; - hvilke funksjoner har vi, og hvordan plasserer vi meldinger som DPV etc&#xD;&#xA;&#xD;&#xA;- ">
     <bounds
-        x="936"
-        y="660"
-        width="185"
+        x="888"
+        y="228"
+        width="229"
         height="80"/>
   </children>
   <children

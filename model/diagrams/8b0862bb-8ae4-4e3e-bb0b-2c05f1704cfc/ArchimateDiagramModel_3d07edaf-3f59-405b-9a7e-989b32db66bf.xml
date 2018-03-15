@@ -106,7 +106,7 @@
     <bounds
         x="225"
         y="144"
-        width="784"
+        width="676"
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessProcess"
@@ -287,7 +287,7 @@
           href="CompositionRelationship_bb1bdde8-78ef-4835-b4ac-3ca3707e4caa.xml#bb1bdde8-78ef-4835-b4ac-3ca3707e4caa"/>
     </sourceConnections>
     <bounds
-        x="1032"
+        x="936"
         y="228"
         width="685"
         height="277"/>
