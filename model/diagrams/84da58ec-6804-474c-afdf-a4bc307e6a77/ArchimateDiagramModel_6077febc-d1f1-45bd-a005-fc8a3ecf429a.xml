@@ -42,10 +42,28 @@
           xsi:type="archimate:RealizationRelationship"
           href="RealizationRelationship_94b86af8-5578-42b4-b711-3fb51a1150c6.xml#94b86af8-5578-42b4-b711-3fb51a1150c6"/>
     </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="b8bf190e-0242-49c1-8805-20945bc29948"
+        source="0b92d059-6215-4f53-a5f4-721f3dcdf963"
+        target="fafa6e52-0448-4c23-8067-f44c1bf46710">
+      <archimateRelationship
+          xsi:type="archimate:RealizationRelationship"
+          href="RealizationRelationship_3cef72af-cb08-423a-b7d9-04d46feb24aa.xml#3cef72af-cb08-423a-b7d9-04d46feb24aa"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="6cdfd30d-be76-418c-a804-20ff53b15e9d"
+        source="0b92d059-6215-4f53-a5f4-721f3dcdf963"
+        target="fbb74cba-4fba-49fb-ae43-71cf0360ef53">
+      <archimateRelationship
+          xsi:type="archimate:CompositionRelationship"
+          href="CompositionRelationship_930246b6-cba6-4d05-ae70-c2440812c8d1.xml#930246b6-cba6-4d05-ae70-c2440812c8d1"/>
+    </sourceConnections>
     <bounds
         x="60"
         y="60"
-        width="710"
+        width="1021"
         height="294"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -78,7 +96,7 @@
         id="f18eea7b-aba0-44a5-85bb-4a11521f874c"
         targetConnections="b2572c78-30a6-44d6-8385-1107bbbb3b46">
       <bounds
-          x="396"
+          x="720"
           y="60"
           width="120"
           height="55"/>
@@ -91,7 +109,7 @@
         id="98ab9f6b-80df-4d4d-ae1c-104d4c352ed8"
         targetConnections="461ec6b3-82bf-419e-9c01-e782bdc8d6f1">
       <bounds
-          x="540"
+          x="864"
           y="60"
           width="120"
           height="55"/>
@@ -99,8 +117,45 @@
           xsi:type="archimate:ApplicationComponent"
           href="ApplicationComponent_12241a45-5c5b-4c6e-bb5a-77f270b9588b.xml#12241a45-5c5b-4c6e-bb5a-77f270b9588b"/>
     </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="fafa6e52-0448-4c23-8067-f44c1bf46710"
+        targetConnections="b8bf190e-0242-49c1-8805-20945bc29948">
+      <bounds
+          x="348"
+          y="60"
+          width="181"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:ApplicationInterface"
+          href="ApplicationInterface_81d8422d-9a7d-4e3a-9846-169ba9ea980d.xml#81d8422d-9a7d-4e3a-9846-169ba9ea980d"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="fbb74cba-4fba-49fb-ae43-71cf0360ef53"
+        targetConnections="6cdfd30d-be76-418c-a804-20ff53b15e9d">
+      <bounds
+          x="348"
+          y="216"
+          width="181"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:ApplicationService"
+          href="ApplicationService_b59400ff-135d-41e7-b7e3-9db07aa78475.xml#b59400ff-135d-41e7-b7e3-9db07aa78475"/>
+    </children>
     <archimateElement
         xsi:type="archimate:Product"
         href="Product_efc79ca1-23c7-4bbc-a751-9d1c396a0aee.xml#efc79ca1-23c7-4bbc-a751-9d1c396a0aee"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="d975c88e-7a38-4da1-b7fd-3b1eed5b6a55"
+      textAlignment="1"
+      content="KHIT&#xD;&#xA;Starte og drive bedrift&#xD;&#xA;Ditt Europa&#xD;&#xA;&#xD;&#xA;Altinn Innboks">
+    <bounds
+        x="402"
+        y="447"
+        width="199"
+        height="106"/>
   </children>
 </archimate:ArchimateDiagramModel>

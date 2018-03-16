@@ -70,7 +70,7 @@
           href="CompositionRelationship_ea9b93e7-b5b2-4a1e-9dc4-51f86a22c15a.xml#ea9b93e7-b5b2-4a1e-9dc4-51f86a22c15a"/>
     </sourceConnections>
     <bounds
-        x="264"
+        x="36"
         y="180"
         width="589"
         height="361"/>
@@ -265,7 +265,7 @@
           href="CompositionRelationship_e01226be-fb94-4972-9f08-d40d8cd2695d.xml#e01226be-fb94-4972-9f08-d40d8cd2695d"/>
     </sourceConnections>
     <bounds
-        x="876"
+        x="648"
         y="180"
         width="541"
         height="361"/>
@@ -393,7 +393,7 @@
           href="CompositionRelationship_f1339a30-44ee-4567-b150-68211bf58249.xml#f1339a30-44ee-4567-b150-68211bf58249"/>
     </sourceConnections>
     <bounds
-        x="264"
+        x="36"
         y="48"
         width="1153"
         height="109"/>
@@ -473,7 +473,7 @@
       textAlignment="1"
       content="Hva er relasjonen her mellom 3.0 og SERES (evt. andre datamodelleringsverktøy)?&#xD;&#xA;&#xD;&#xA;Datamodellering kan gjøres i et verktøy Altinn tilbyr, eller i en ekstern tjeneste.">
     <bounds
-        x="732"
+        x="504"
         y="468"
         width="205"
         height="121"/>
