@@ -237,17 +237,6 @@
         height="245"/>
   </children>
   <children
-      xsi:type="archimate:DiagramModelNote"
-      id="fa7b91fe-1ad3-4f93-a258-cdf5e078c4e4"
-      textAlignment="1"
-      content="Forholdet mellom Autorisasjon og Integrasjon vs 3.0 runtime">
-    <bounds
-        x="444"
-        y="60"
-        width="185"
-        height="61"/>
-  </children>
-  <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="218d416f-3fdf-42b4-be28-104c98069036">
     <sourceConnections
