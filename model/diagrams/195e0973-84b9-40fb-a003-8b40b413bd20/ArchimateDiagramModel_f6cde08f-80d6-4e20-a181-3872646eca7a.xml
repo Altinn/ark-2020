@@ -12,7 +12,7 @@
         x="132"
         y="48"
         width="697"
-        height="709"/>
+        height="553"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="def2071c-2412-4997-a6ca-0390151b671b">
@@ -47,7 +47,7 @@
           x="36"
           y="204"
           width="625"
-          height="205"/>
+          height="145"/>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="bd4886b7-9995-4a42-85ca-520a9f80369b"
@@ -264,7 +264,7 @@
       </sourceConnections>
       <bounds
           x="48"
-          y="576"
+          y="456"
           width="120"
           height="55"/>
       <archimateElement
@@ -284,8 +284,8 @@
             href="AssignmentRelationship_47ee8cab-361d-49e8-be72-aecf6d39fca0.xml#47ee8cab-361d-49e8-be72-aecf6d39fca0"/>
       </sourceConnections>
       <bounds
-          x="192"
-          y="576"
+          x="180"
+          y="456"
           width="120"
           height="55"/>
       <archimateElement
@@ -307,7 +307,7 @@
       </sourceConnections>
       <bounds
           x="48"
-          y="468"
+          y="360"
           width="120"
           height="55"/>
       <archimateElement
@@ -343,7 +343,7 @@
       </sourceConnections>
       <bounds
           x="180"
-          y="468"
+          y="360"
           width="120"
           height="55"/>
       <archimateElement
@@ -425,29 +425,6 @@
       <archimateElement
           xsi:type="archimate:ApplicationService"
           href="ApplicationService_e2e01293-56d2-49fc-b3e1-b034cec1b13f.xml#e2e01293-56d2-49fc-b3e1-b034cec1b13f"/>
-    </children>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelGroup"
-      id="92e1a48b-f89f-432d-bc3e-5c94a68dbf86"
-      name="Andre tjenester"
-      textAlignment="1">
-    <bounds
-        x="852"
-        y="276"
-        width="237"
-        height="154"/>
-    <children
-        xsi:type="archimate:DiagramModelArchimateObject"
-        id="90d26ae4-a839-4633-a8ec-18e68c4c609b">
-      <bounds
-          x="24"
-          y="60"
-          width="120"
-          height="55"/>
-      <archimateElement
-          xsi:type="archimate:ApplicationService"
-          href="ApplicationService_e30487e0-2343-4c8b-ad23-0d8048efd5a6.xml#e30487e0-2343-4c8b-ad23-0d8048efd5a6"/>
     </children>
   </children>
 </archimate:ArchimateDiagramModel>
