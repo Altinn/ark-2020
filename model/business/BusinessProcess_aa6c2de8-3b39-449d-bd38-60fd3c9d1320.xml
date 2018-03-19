@@ -1,5 +1,5 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Skape APIer"
+    name="Bygge APIer"
     id="aa6c2de8-3b39-449d-bd38-60fd3c9d1320"
     documentation="Tjenester kan ha et grafisk brukergrensesnitt, men vil også kunne ha ett eller flere APIer. Disse må også kunne lages."/>

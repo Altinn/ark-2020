@@ -1,5 +1,5 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="API Plugin Tjeneste"
+    name="API-katalog tjeneste"
     id="b0bbc933-cef4-4e48-b4b8-6b6ac7f4af14"
     documentation="For å kunne understøtte “once-only”, så er det essensielt at det er enkelt å gjøre kall mot andre systemers API’er fra en 3.0-tjeneste. For å forenkle dette kan en mulig løsning være å støtte en type gjenbrukbar asset av type “API-plugins”, som gjør det enkelt å gjøre kall.&#xD;&#xA;En ukjent faktor er den kommende “API-katalogen”, og hvilke egenskaper den vil tilby.&#xD;&#xA;&#xD;&#xA;Enkel bruk av API’er.&#xD;&#xA;Se på det som gjøres i NADOBE.&#xD;&#xA;Må bort fra dagens mappere&#xD;&#xA;Dette er et område som ikke ble sett på i PoC."/>
