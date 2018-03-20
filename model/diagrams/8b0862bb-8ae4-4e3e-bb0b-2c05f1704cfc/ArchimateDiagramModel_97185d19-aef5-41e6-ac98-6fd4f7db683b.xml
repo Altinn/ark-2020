@@ -10,7 +10,7 @@
       content="Spørsmål som må besvares:&#xD;&#xA;-Er infrastrukturen kun teknologilag eller også selvbetjening/provisjonering av denne?&#xD;&#xA;- hvor puttes KoFuVi, DPV, signering, varsling?&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;">
     <bounds
         x="-132"
-        y="552"
+        y="504"
         width="265"
         height="121"/>
   </children>
@@ -120,8 +120,8 @@
       textAlignment="1"
       content="Hvordan modellere og representere tjenestetyper som  finnes i dagens arkitektur: &#xD;&#xA;&#xD;&#xA;- meldingstjeneste&#xD;&#xA;- Digital post til virksomheter (DPV&#xD;&#xA;- Videresending til DPI'&#xD;&#xA;- innsyn">
     <bounds
-        x="168"
-        y="552"
+        x="156"
+        y="504"
         width="265"
         height="121"/>
   </children>
@@ -517,5 +517,75 @@
     <archimateElement
         xsi:type="archimate:BusinessRole"
         href="BusinessRole_8dc5c066-9545-452d-beb0-4c8fa3bcd40b.xml#8dc5c066-9545-452d-beb0-4c8fa3bcd40b"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="b311f53b-7a38-40e2-a1f5-cc7b73d77b15">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="05db2ee4-4bef-4fa9-b0b3-a092726ba0f6"
+        source="b311f53b-7a38-40e2-a1f5-cc7b73d77b15"
+        target="76f433e3-4b5b-49e2-8057-4970ef948732">
+      <archimateRelationship
+          xsi:type="archimate:AggregationRelationship"
+          href="AggregationRelationship_8527bc30-988e-4976-9b4c-0c06b1eb8ec7.xml#8527bc30-988e-4976-9b4c-0c06b1eb8ec7"/>
+    </sourceConnections>
+    <bounds
+        x="743"
+        y="422"
+        width="400"
+        height="287"/>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="76f433e3-4b5b-49e2-8057-4970ef948732"
+        targetConnections="05db2ee4-4bef-4fa9-b0b3-a092726ba0f6">
+      <bounds
+          x="12"
+          y="36"
+          width="373"
+          height="86"/>
+      <children
+          xsi:type="archimate:DiagramModelArchimateObject"
+          id="412a245a-969c-4a27-8556-1e300e3fac93">
+        <bounds
+            x="12"
+            y="24"
+            width="120"
+            height="55"/>
+        <archimateElement
+            xsi:type="archimate:ApplicationComponent"
+            href="ApplicationComponent_7e9d2d26-a49e-4be0-80c5-8deb05a2316c.xml#7e9d2d26-a49e-4be0-80c5-8deb05a2316c"/>
+      </children>
+      <children
+          xsi:type="archimate:DiagramModelArchimateObject"
+          id="7f62baca-fa9e-4647-a0df-2f718b99454e">
+        <bounds
+            x="156"
+            y="24"
+            width="120"
+            height="55"/>
+        <archimateElement
+            xsi:type="archimate:ApplicationComponent"
+            href="ApplicationComponent_e71a304d-2847-4038-8173-00e4454ba081.xml#e71a304d-2847-4038-8173-00e4454ba081"/>
+      </children>
+      <archimateElement
+          xsi:type="archimate:BusinessActor"
+          href="BusinessActor_b99c5be0-d67b-4ffa-874a-5c8bf6a16577.xml#b99c5be0-d67b-4ffa-874a-5c8bf6a16577"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelNote"
+        id="e8f2033e-b5fa-4cef-ae07-5e712c14dfa6"
+        font="1|Segoe UI|14.25|0|WINDOWS|1|-19|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+        textAlignment="1"
+        content="Hvilke evt. andre kilder til data vil tilgjengeliggjøres i Altinn? Dvs data som ikke tilhører BRREG?">
+      <bounds
+          x="12"
+          y="132"
+          width="373"
+          height="97"/>
+    </children>
+    <archimateElement
+        xsi:type="archimate:Grouping"
+        href="Grouping_84421c42-2dcd-4c43-897e-263e77319d97.xml#84421c42-2dcd-4c43-897e-263e77319d97"/>
   </children>
 </archimate:ArchimateDiagramModel>
