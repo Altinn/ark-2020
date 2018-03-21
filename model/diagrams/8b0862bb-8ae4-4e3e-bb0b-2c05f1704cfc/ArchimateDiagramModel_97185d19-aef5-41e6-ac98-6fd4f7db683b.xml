@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="BRREG - DIG plattform 2020 overordnet modell (alt)"
+    name="BRREG - DIG plattform 2020 overordnet modell"
     id="97185d19-aef5-41e6-ac98-6fd4f7db683b">
   <children
       xsi:type="archimate:DiagramModelNote"
@@ -118,7 +118,7 @@
       xsi:type="archimate:DiagramModelNote"
       id="09ced5c8-620c-41a5-b985-49e321ee4c50"
       textAlignment="1"
-      content="Hvordan modellere og representere tjenestetyper som  finnes i dagens arkitektur: &#xD;&#xA;&#xD;&#xA;- meldingstjeneste&#xD;&#xA;- Digital post til virksomheter (DPV&#xD;&#xA;- Videresending til DPI'&#xD;&#xA;- innsyn">
+      content="Hvordan modellere og representere tjenestetyper som  finnes i dagens arkitektur: &#xD;&#xA;&#xD;&#xA;- meldingstjeneste&#xD;&#xA;- Digital post til virksomheter (DPV)&#xD;&#xA;- Videresending til DPI">
     <bounds
         x="156"
         y="504"
