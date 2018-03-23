@@ -209,6 +209,10 @@
             xsi:type="archimate:ServingRelationship"
             href="ServingRelationship_84ff46c7-4c66-43b6-bec8-0c7387b0b8f3.xml#84ff46c7-4c66-43b6-bec8-0c7387b0b8f3"/>
       </sourceConnections>
+      <sourceConnections
+          id="17c55c68-ec7f-47e2-b0ce-647613c94113"
+          source="d22bb771-3f7e-48cf-ac5e-487061de20c0"
+          target="ee43b22a-3d9d-40eb-9413-aa4cf66ee65f"/>
       <bounds
           x="360"
           y="60"
@@ -433,5 +437,17 @@
         y="479"
         width="185"
         height="110"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="ee43b22a-3d9d-40eb-9413-aa4cf66ee65f"
+      targetConnections="17c55c68-ec7f-47e2-b0ce-647613c94113"
+      textAlignment="1"
+      content="Denne små sjekkes opp mot funksjon &quot;Signering&quot; i T3&#xD;&#xA;">
+    <bounds
+        x="632"
+        y="479"
+        width="185"
+        height="80"/>
   </children>
 </archimate:ArchimateDiagramModel>
