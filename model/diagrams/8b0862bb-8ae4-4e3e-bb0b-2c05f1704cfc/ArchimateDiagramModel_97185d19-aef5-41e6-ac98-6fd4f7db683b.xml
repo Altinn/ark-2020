@@ -6,11 +6,12 @@
   <children
       xsi:type="archimate:DiagramModelNote"
       id="e9c21bda-c807-4a55-8ac9-ee9517f400c8"
+      font="1|Segoe UI|9.75|0|WINDOWS|1|-13|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
       textAlignment="1"
       content="Spørsmål som må besvares:&#xD;&#xA;-Er infrastrukturen kun teknologilag eller også selvbetjening/provisjonering av denne?&#xD;&#xA;- hvor puttes KoFuVi, DPV, signering, varsling?&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;">
     <bounds
-        x="-132"
-        y="504"
+        x="-144"
+        y="588"
         width="265"
         height="121"/>
   </children>
@@ -117,12 +118,13 @@
   <children
       xsi:type="archimate:DiagramModelNote"
       id="09ced5c8-620c-41a5-b985-49e321ee4c50"
+      font="1|Segoe UI|9.75|0|WINDOWS|1|-13|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
       textAlignment="1"
       content="Hvordan modellere og representere tjenestetyper som  finnes i dagens arkitektur: &#xD;&#xA;&#xD;&#xA;- meldingstjeneste&#xD;&#xA;- Digital post til virksomheter (DPV)&#xD;&#xA;- Videresending til DPI">
     <bounds
-        x="156"
-        y="504"
-        width="265"
+        x="144"
+        y="588"
+        width="337"
         height="121"/>
   </children>
   <children
@@ -580,7 +582,7 @@
         content="Hvilke evt. andre kilder til data vil tilgjengeliggjøres i Altinn? Dvs data som ikke tilhører BRREG?">
       <bounds
           x="12"
-          y="132"
+          y="168"
           width="373"
           height="97"/>
     </children>

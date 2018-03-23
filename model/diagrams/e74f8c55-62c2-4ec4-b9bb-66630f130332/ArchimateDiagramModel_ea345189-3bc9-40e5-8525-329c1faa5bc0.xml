@@ -194,6 +194,7 @@
   <children
       xsi:type="archimate:DiagramModelNote"
       id="7a0c25d8-fd1b-4cd8-b836-56b29f0f23bc"
+      font="1|Segoe UI|9.75|0|WINDOWS|1|-13|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
       textAlignment="1"
       content="Har denne prosessen behov som ikke er dekket av 3.0 Designer og 3.0 Repositories?&#xD;&#xA;">
     <sourceConnections
@@ -201,21 +202,10 @@
         source="7a0c25d8-fd1b-4cd8-b836-56b29f0f23bc"
         target="da8b319a-0ffc-4079-95be-e6f21f3b9625"/>
     <bounds
-        x="47"
-        y="438"
-        width="158"
-        height="80"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelNote"
-      id="4ac11583-aa18-463c-8903-9925636c4906"
-      textAlignment="1"
-      content="Hvordan modellere og representere tjenestetyper som  finnes i dagens arkitektur: &#xD;&#xA;&#xD;&#xA;- meldingstjeneste&#xD;&#xA;- Digital post til virksomheter (DPV)&#xD;&#xA;- Videresending til DPI&#xD;&#xA;">
-    <bounds
-        x="695"
-        y="282"
-        width="245"
-        height="151"/>
+        x="36"
+        y="552"
+        width="181"
+        height="103"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"

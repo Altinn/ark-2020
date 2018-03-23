@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="2.4 Tjenester 3.0 Runtime"
-    id="f484255e-da59-462d-ab79-88c5d4a91289">
+    id="f484255e-da59-462d-ab79-88c5d4a91289"
+    documentation="“Altinn Runtime” er løsningen som skal kjøre 3.0-tjenestene som er utviklet med Designer og som lagres i Repositories.&#xD;&#xA;&#xD;&#xA;Eksakt samme runtime vil kjøre ved enhetstest i Designer som i Altinns test- og produksjonsmiljøer. Denne vil kjøre i parallell med dagens ServiceEngine og Archive, og det å integrere den nye løsningen i den gamle på en hensiktsmessig måte, men uten for mange kompromisser, blir en hovedutfordring og noe som vil være viktig å ha fokus på.&#xD;&#xA;&#xD;&#xA;Hypotesen er at “Runtime” bør deles i to:&#xD;&#xA;&#xD;&#xA;API’er som behandler brukerdata vil kjøre i dagens Altinn-infrastruktur (f.eks. logikk, validering, etc)&#xD;&#xA;Front-end og API’er som ikke inneholder brukerdata vil serves fra skyen (f.eks. kodelister, web komponenter, statiske assets, etc)&#xD;&#xA;Dette gjør at vi kan utnytte en ekte sky for Designer og Repositories, samtidig som brukernes data ikke behøver flyte via en sky i utlandet, men kun via brukerens nettleser og API’er i norge.">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="3436a567-034e-4fcc-a5e2-5454e3261880">
@@ -385,6 +386,15 @@
           xsi:type="archimate:CompositionRelationship"
           href="CompositionRelationship_736ee42e-7fd8-4d63-9656-24a92dc6b9ba.xml#736ee42e-7fd8-4d63-9656-24a92dc6b9ba"/>
     </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="e65c3c86-8af7-471d-a0c7-36f7a6f879c3"
+        source="ec4bc24b-7283-42af-b61a-78d40743728d"
+        target="40dddb41-0057-43f5-ad05-c3fde566c542">
+      <archimateRelationship
+          xsi:type="archimate:AggregationRelationship"
+          href="AggregationRelationship_4aea30a2-6c3a-4703-a7bf-470dfa129bf7.xml#4aea30a2-6c3a-4703-a7bf-470dfa129bf7"/>
+    </sourceConnections>
     <bounds
         x="48"
         y="108"
@@ -414,16 +424,16 @@
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
-        id="24151fe4-85df-4a24-815e-1fa9ce7b4c32"
-        targetConnections="d56a42bf-08ab-439a-a3af-5a0522958e1d">
+        id="40dddb41-0057-43f5-ad05-c3fde566c542"
+        targetConnections="e65c3c86-8af7-471d-a0c7-36f7a6f879c3 70cab900-e083-48b7-bb56-c43252588596">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
-          id="70cab900-e083-48b7-bb56-c43252588596"
-          source="24151fe4-85df-4a24-815e-1fa9ce7b4c32"
+          id="ee395734-e049-4abb-b261-221eca464534"
+          source="40dddb41-0057-43f5-ad05-c3fde566c542"
           target="d3bddb2e-1d28-4ac9-bc05-4300945441b5">
         <archimateRelationship
             xsi:type="archimate:ServingRelationship"
-            href="ServingRelationship_82794c52-9c27-418c-b519-f7e0e0e8cf65.xml#82794c52-9c27-418c-b519-f7e0e0e8cf65"/>
+            href="ServingRelationship_582214a0-2cfe-4f21-b43d-b7adbc939cbb.xml#582214a0-2cfe-4f21-b43d-b7adbc939cbb"/>
       </sourceConnections>
       <bounds
           x="12"
@@ -431,8 +441,8 @@
           width="120"
           height="55"/>
       <archimateElement
-          xsi:type="archimate:ApplicationComponent"
-          href="ApplicationComponent_68aa7599-b3a6-46b6-b20e-73d4febcfcbf.xml#68aa7599-b3a6-46b6-b20e-73d4febcfcbf"/>
+          xsi:type="archimate:BusinessProcess"
+          href="BusinessProcess_06f7ef4a-c376-4d19-84f6-e2501367a1f3.xml#06f7ef4a-c376-4d19-84f6-e2501367a1f3"/>
     </children>
     <archimateElement
         xsi:type="archimate:BusinessProcess"
@@ -452,7 +462,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="d3bddb2e-1d28-4ac9-bc05-4300945441b5"
-      targetConnections="70cab900-e083-48b7-bb56-c43252588596">
+      targetConnections="ee395734-e049-4abb-b261-221eca464534">
     <bounds
         x="60"
         y="24"
@@ -517,5 +527,27 @@
     <archimateElement
         xsi:type="archimate:ApplicationService"
         href="ApplicationService_3de3db9b-e36c-46f4-8189-82cc2ef7833c.xml#3de3db9b-e36c-46f4-8189-82cc2ef7833c"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="24151fe4-85df-4a24-815e-1fa9ce7b4c32"
+      targetConnections="d56a42bf-08ab-439a-a3af-5a0522958e1d">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="70cab900-e083-48b7-bb56-c43252588596"
+        source="24151fe4-85df-4a24-815e-1fa9ce7b4c32"
+        target="40dddb41-0057-43f5-ad05-c3fde566c542">
+      <archimateRelationship
+          xsi:type="archimate:ServingRelationship"
+          href="ServingRelationship_82794c52-9c27-418c-b519-f7e0e0e8cf65.xml#82794c52-9c27-418c-b519-f7e0e0e8cf65"/>
+    </sourceConnections>
+    <bounds
+        x="60"
+        y="240"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationComponent"
+        href="ApplicationComponent_68aa7599-b3a6-46b6-b20e-73d4febcfcbf.xml#68aa7599-b3a6-46b6-b20e-73d4febcfcbf"/>
   </children>
 </archimate:ArchimateDiagramModel>

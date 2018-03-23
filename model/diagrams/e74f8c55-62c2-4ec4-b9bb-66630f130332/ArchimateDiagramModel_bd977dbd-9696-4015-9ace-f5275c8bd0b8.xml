@@ -507,11 +507,11 @@
       id="b31a60e7-a98d-4421-be71-4f4253fa4c32"
       targetConnections="17c5cf14-b1d8-40db-bea3-43359f7ab150 0dad6c03-692f-45ff-9809-0ea70ec2feda"
       textAlignment="1"
-      content="Hva er relasjonen her mellom 3.0 og SERES (evt. andre datamodelleringsverktøy)?&#xD;&#xA;&#xD;&#xA;Datamodellering kan gjøres i et verktøy Altinn tilbyr, eller i en ekstern tjeneste.">
+      content="Datamodellering kan gjøres i et verktøy Altinn tilbyr, eller i en ekstern tjeneste. &#xD;&#xA;&#xD;&#xA;Til avklaring:&#xD;&#xA;- Hva er relasjonen mellom 3.0 og SERES (evt. andre datamodelleringsverktøy)?&#xD;&#xA;- Skal opprettelsen av et API i 3.0 automatisk oppdatere informasjonen i Data/API-katalogen?&#xD;&#xA;- er det andre grensesnitt mellom T30 og katalogtjenestene til informasjonsforvaltning som må avklares?">
     <bounds
         x="504"
         y="468"
         width="205"
-        height="121"/>
+        height="241"/>
   </children>
 </archimate:ArchimateDiagramModel>

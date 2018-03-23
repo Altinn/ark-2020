@@ -135,15 +135,6 @@
             xsi:type="archimate:FlowRelationship"
             href="FlowRelationship_b61e3c4d-13cd-4ecb-9ed5-aef907791d00.xml#b61e3c4d-13cd-4ecb-9ed5-aef907791d00"/>
       </sourceConnections>
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
-          id="71b8c892-b6ff-4b1a-a10e-d5e7367e5162"
-          source="f90757ef-c858-4e1c-90e0-6a417c8af680"
-          target="ba88c7dd-49cd-4de8-b96d-8a67c3f3c53b">
-        <archimateRelationship
-            xsi:type="archimate:ServingRelationship"
-            href="ServingRelationship_82794c52-9c27-418c-b519-f7e0e0e8cf65.xml#82794c52-9c27-418c-b519-f7e0e0e8cf65"/>
-      </sourceConnections>
       <bounds
           x="12"
           y="99"
@@ -155,8 +146,7 @@
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
-        id="ba88c7dd-49cd-4de8-b96d-8a67c3f3c53b"
-        targetConnections="71b8c892-b6ff-4b1a-a10e-d5e7367e5162">
+        id="ba88c7dd-49cd-4de8-b96d-8a67c3f3c53b">
       <bounds
           x="12"
           y="24"

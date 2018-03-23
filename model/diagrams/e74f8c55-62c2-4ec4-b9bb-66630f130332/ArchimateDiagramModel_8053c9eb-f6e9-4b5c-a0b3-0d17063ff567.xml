@@ -250,12 +250,13 @@
   <children
       xsi:type="archimate:DiagramModelNote"
       id="5a7ddc55-c504-4e2c-a4df-cce44a9720f1"
+      font="1|Segoe UI|9.75|0|WINDOWS|1|-13|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
       textAlignment="1"
       content="Problemstilling:&#xD;&#xA;&#xD;&#xA;Altinn løser oppgaven med å ta i mot strukturerte og ustrukturerte data fra personer og virksomheter, og å sende disse videre til tjenesteeiere via deres prefererte grensesnitt. &#xD;&#xA;&#xD;&#xA;I forbindelse med oppgradering av registerplattformen må Brønnøysundregistrene ta stilling til hvilken rolle Altinn skal ha ved innrapportering til registrene. Det vil være et svært overraskende og skadelig signal Brønnøysund ikke velger å ta i bruk sine egne tjenester for å ta i mot data.&#xD;&#xA;">
     <bounds
         x="768"
         y="24"
         width="309"
-        height="247"/>
+        height="409"/>
   </children>
 </archimate:ArchimateDiagramModel>

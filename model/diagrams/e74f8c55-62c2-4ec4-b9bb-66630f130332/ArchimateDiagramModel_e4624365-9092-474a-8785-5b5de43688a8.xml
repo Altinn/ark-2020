@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="2.3 Tjenester 3.0 Repository"
-    id="e4624365-9092-474a-8785-5b5de43688a8">
+    id="e4624365-9092-474a-8785-5b5de43688a8"
+    documentation="“Altinn Repositories” er en frittstående Git versjonskontroll og Application Lifecycle Management-løsning, som både Designer, kodeeditorer og andre eksterne verktøy vil benytte som back-end og felles sted for å lagre og versjonere tjenestene som utvikles.&#xD;&#xA;&#xD;&#xA;Repositories har et GitHub-lignende brukergrensesnitt og både Git og REST-baserte tekniske grensesnitt.">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="8d612cb4-2dff-4cd9-8783-e0b92339947d">

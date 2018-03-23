@@ -225,6 +225,7 @@
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="adf97780-1b31-4a20-bec0-fd78cb1d12d1"
+          targetConnections="247f6c90-00d8-4854-98e5-01403fc290fc"
           source="0daa185d-d2b6-4f6c-997f-aca535201f15"
           target="73e2b99b-36bd-44a1-bfbf-e42611f4bd46">
         <archimateRelationship
@@ -276,17 +277,6 @@
       <archimateElement
           xsi:type="archimate:ApplicationService"
           href="ApplicationService_1acbadf7-d996-4d12-bc7b-9993b12cf235.xml#1acbadf7-d996-4d12-bc7b-9993b12cf235"/>
-    </children>
-    <children
-        xsi:type="archimate:DiagramModelNote"
-        id="27ab6c35-8e5c-4bf8-acfd-4f07b7766f9a"
-        textAlignment="1"
-        content="Not complete">
-      <bounds
-          x="32"
-          y="240"
-          width="185"
-          height="80"/>
     </children>
     <archimateElement
         xsi:type="archimate:Product"
@@ -422,5 +412,26 @@
     <archimateElement
         xsi:type="archimate:ApplicationComponent"
         href="ApplicationComponent_e71a304d-2847-4038-8173-00e4454ba081.xml#e71a304d-2847-4038-8173-00e4454ba081"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="27ab6c35-8e5c-4bf8-acfd-4f07b7766f9a"
+      textAlignment="1"
+      content="Denne relasjonen må konkretiseres&#xD;&#xA;&#xD;&#xA;Spiller KoFuVi også en rolle her?&#xD;&#xA;&#xD;&#xA;">
+    <sourceConnections
+        id="247f6c90-00d8-4854-98e5-01403fc290fc"
+        source="27ab6c35-8e5c-4bf8-acfd-4f07b7766f9a"
+        target="adf97780-1b31-4a20-bec0-fd78cb1d12d1">
+      <bendpoints
+          startX="-8"
+          startY="-183"
+          endX="354"
+          endY="-3"/>
+    </sourceConnections>
+    <bounds
+        x="432"
+        y="479"
+        width="185"
+        height="110"/>
   </children>
 </archimate:ArchimateDiagramModel>

@@ -789,27 +789,6 @@
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
-        id="61afb549-a30c-4c8b-afbd-1d90d13af6c8">
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
-          id="76957392-745a-4e90-9ddd-de7a71c32bfa"
-          source="61afb549-a30c-4c8b-afbd-1d90d13af6c8"
-          target="aed498cf-0c7f-4303-be21-7887520be19f">
-        <archimateRelationship
-            xsi:type="archimate:FlowRelationship"
-            href="FlowRelationship_58e1a1ba-651b-49fd-8f89-64e7c3cb0fcc.xml#58e1a1ba-651b-49fd-8f89-64e7c3cb0fcc"/>
-      </sourceConnections>
-      <bounds
-          x="216"
-          y="36"
-          width="120"
-          height="55"/>
-      <archimateElement
-          xsi:type="archimate:ApplicationInterface"
-          href="ApplicationInterface_9d358405-80db-4827-9760-6fbc55f0fb80.xml#9d358405-80db-4827-9760-6fbc55f0fb80"/>
-    </children>
-    <children
-        xsi:type="archimate:DiagramModelArchimateObject"
         id="15f02b69-72a8-4852-bc41-a24bde39aab8"
         targetConnections="6487223e-9805-4269-9873-8c42eb077b61 04c55ef4-23a5-4bb8-9716-53133e42c40b">
       <bounds
@@ -850,5 +829,26 @@
         y="720"
         width="125"
         height="80"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="61afb549-a30c-4c8b-afbd-1d90d13af6c8">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="76957392-745a-4e90-9ddd-de7a71c32bfa"
+        source="61afb549-a30c-4c8b-afbd-1d90d13af6c8"
+        target="aed498cf-0c7f-4303-be21-7887520be19f">
+      <archimateRelationship
+          xsi:type="archimate:FlowRelationship"
+          href="FlowRelationship_58e1a1ba-651b-49fd-8f89-64e7c3cb0fcc.xml#58e1a1ba-651b-49fd-8f89-64e7c3cb0fcc"/>
+    </sourceConnections>
+    <bounds
+        x="1308"
+        y="120"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationInterface"
+        href="ApplicationInterface_9d358405-80db-4827-9760-6fbc55f0fb80.xml#9d358405-80db-4827-9760-6fbc55f0fb80"/>
   </children>
 </archimate:ArchimateDiagramModel>
