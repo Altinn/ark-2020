@@ -133,6 +133,15 @@
           xsi:type="archimate:DiagramModelArchimateObject"
           id="765044ba-b4c9-4589-a779-1c8c17a40bf6"
           targetConnections="c871333a-6d82-4a74-a4d0-ef22c19dde43">
+        <sourceConnections
+            xsi:type="archimate:DiagramModelArchimateConnection"
+            id="2bafa24d-38fb-42f5-b3f4-8d1528adb323"
+            source="765044ba-b4c9-4589-a779-1c8c17a40bf6"
+            target="8deb3114-5d0d-4aa3-bdda-cd508a44955e">
+          <archimateRelationship
+              xsi:type="archimate:FlowRelationship"
+              href="FlowRelationship_96413558-41cc-46cc-97a6-374b8c642e4f.xml#96413558-41cc-46cc-97a6-374b8c642e4f"/>
+        </sourceConnections>
         <bounds
             x="216"
             y="40"
@@ -180,7 +189,7 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="8deb3114-5d0d-4aa3-bdda-cd508a44955e"
-          targetConnections="50403eea-b2a8-4e3e-84c2-e00eef9dbbfd 593daaf4-5d40-4239-afb1-e66b6c94e62a">
+          targetConnections="50403eea-b2a8-4e3e-84c2-e00eef9dbbfd 593daaf4-5d40-4239-afb1-e66b6c94e62a 2bafa24d-38fb-42f5-b3f4-8d1528adb323">
         <sourceConnections
             xsi:type="archimate:DiagramModelArchimateConnection"
             id="539a7e43-7763-4cde-a9ce-602ebd8f8f90"
@@ -241,12 +250,13 @@
   <children
       xsi:type="archimate:DiagramModelNote"
       id="5a7ddc55-c504-4e2c-a4df-cce44a9720f1"
+      font="1|Segoe UI|9.75|0|WINDOWS|1|-13|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
       textAlignment="1"
       content="Problemstilling:&#xD;&#xA;&#xD;&#xA;Altinn løser oppgaven med å ta i mot strukturerte og ustrukturerte data fra personer og virksomheter, og å sende disse videre til tjenesteeiere via deres prefererte grensesnitt. &#xD;&#xA;&#xD;&#xA;I forbindelse med oppgradering av registerplattformen må Brønnøysundregistrene ta stilling til hvilken rolle Altinn skal ha ved innrapportering til registrene. Det vil være et svært overraskende og skadelig signal Brønnøysund ikke velger å ta i bruk sine egne tjenester for å ta i mot data.&#xD;&#xA;">
     <bounds
         x="768"
         y="24"
         width="309"
-        height="247"/>
+        height="409"/>
   </children>
 </archimate:ArchimateDiagramModel>

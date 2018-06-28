@@ -308,10 +308,11 @@
       xsi:type="archimate:DiagramModelNote"
       id="ccfec233-8713-42cf-b0c7-23c316170d6a"
       textAlignment="1"
-      content="Løsningen er så langt satt på hold...&#xD;&#xA;">
+      content="Beskrivelsen ble utarbeidet som følge av arbeidsgruppen for arkitekturmessige anbefalinger for portefølje 1 i DSOP-samarbeidet.&#xD;&#xA;&#xD;&#xA;Løsningen er så langt satt på hold...&#xD;&#xA;">
     <bounds
         x="24"
+        y="-12"
         width="409"
-        height="49"/>
+        height="73"/>
   </children>
 </archimate:ArchimateDiagramModel>

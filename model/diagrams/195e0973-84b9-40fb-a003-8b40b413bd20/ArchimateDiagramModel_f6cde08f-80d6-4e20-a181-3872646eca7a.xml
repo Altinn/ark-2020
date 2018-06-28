@@ -9,8 +9,8 @@
       name="Altinn"
       textAlignment="1">
     <bounds
-        x="132"
-        y="48"
+        x="72"
+        y="192"
         width="697"
         height="553"/>
     <children
@@ -190,6 +190,15 @@
           xsi:type="archimate:DiagramModelArchimateObject"
           id="74e3eae9-e7c6-481d-83fe-727a197b1d3c"
           targetConnections="bd798f27-6a71-4836-acf8-ba9f82a577aa 43668d07-0d42-40d3-9d4a-ce52eebe4bc1">
+        <sourceConnections
+            xsi:type="archimate:DiagramModelArchimateConnection"
+            id="b833132a-855c-474a-a0e6-0723560e7d07"
+            source="74e3eae9-e7c6-481d-83fe-727a197b1d3c"
+            target="450109cb-ee2d-4218-abc4-1ec160b9b8cc">
+          <archimateRelationship
+              xsi:type="archimate:ServingRelationship"
+              href="ServingRelationship_0aa82436-b786-488a-a495-934494f183fa.xml#0aa82436-b786-488a-a495-934494f183fa"/>
+        </sourceConnections>
         <bounds
             x="12"
             y="48"
@@ -369,8 +378,8 @@
       name="Difi"
       textAlignment="1">
     <bounds
-        x="852"
-        y="48"
+        x="792"
+        y="192"
         width="237"
         height="214"/>
     <children
@@ -425,6 +434,30 @@
       <archimateElement
           xsi:type="archimate:ApplicationService"
           href="ApplicationService_e2e01293-56d2-49fc-b3e1-b034cec1b13f.xml#e2e01293-56d2-49fc-b3e1-b034cec1b13f"/>
+    </children>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="7e202df6-ae38-44b7-a01c-1bddea34c8de"
+      name="Ekstern virksomhet"
+      textAlignment="1">
+    <bounds
+        x="72"
+        y="36"
+        width="349"
+        height="140"/>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="450109cb-ee2d-4218-abc4-1ec160b9b8cc"
+        targetConnections="b833132a-855c-474a-a0e6-0723560e7d07">
+      <bounds
+          x="48"
+          y="48"
+          width="120"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:BusinessRole"
+          href="BusinessRole_a33ccb97-7e05-4116-a1c1-d1c93e69a2b0.xml#a33ccb97-7e05-4116-a1c1-d1c93e69a2b0"/>
     </children>
   </children>
 </archimate:ArchimateDiagramModel>

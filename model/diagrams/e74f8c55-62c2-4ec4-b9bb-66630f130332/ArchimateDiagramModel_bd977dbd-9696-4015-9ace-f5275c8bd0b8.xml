@@ -109,7 +109,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="422d4688-dd64-4114-9cbf-65d8187a1a5a"
-        targetConnections="f19cbe9d-1d1d-46e3-90ab-20af78d8475d c7e2514d-d5c3-411c-8f19-8b841c741cde">
+        targetConnections="f19cbe9d-1d1d-46e3-90ab-20af78d8475d c7e2514d-d5c3-411c-8f19-8b841c741cde f233bf44-205d-43b7-ba78-5ff6a40ddd01">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="1cfb553b-d50f-460c-88ac-14e1bc6e8171"
@@ -211,7 +211,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="74e9cc64-d23f-49cc-8a94-11290946d32c"
-        targetConnections="22752521-af9c-4cf1-b16e-b75f75896fc6 89ef9a9a-c327-449f-8f5d-7e8529392a12">
+        targetConnections="22752521-af9c-4cf1-b16e-b75f75896fc6 89ef9a9a-c327-449f-8f5d-7e8529392a12 b0d0bc67-4cd5-4e13-8ec9-a17fbb5e2a65">
       <bounds
           x="24"
           y="132"
@@ -282,6 +282,25 @@
             xsi:type="archimate:ServingRelationship"
             href="ServingRelationship_8edac4dd-9d5d-466e-aa4e-9ae50e6d7eea.xml#8edac4dd-9d5d-466e-aa4e-9ae50e6d7eea"/>
       </sourceConnections>
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="b0d0bc67-4cd5-4e13-8ec9-a17fbb5e2a65"
+          source="2b4fd67e-b80d-4442-bae6-1c004c88ba89"
+          target="74e9cc64-d23f-49cc-8a94-11290946d32c">
+        <bendpoints
+            startX="2"
+            startY="141"
+            endX="756"
+            endY="45"/>
+        <bendpoints
+            startX="-730"
+            startY="141"
+            endX="24"
+            endY="45"/>
+        <archimateRelationship
+            xsi:type="archimate:AssociationRelationship"
+            href="AssociationRelationship_e2e3e44d-3937-4410-b5e0-1ccf44e06530.xml#e2e3e44d-3937-4410-b5e0-1ccf44e06530"/>
+      </sourceConnections>
       <bounds
           x="166"
           y="36"
@@ -304,8 +323,25 @@
             xsi:type="archimate:ServingRelationship"
             href="ServingRelationship_13178023-7d6f-4d75-9979-85cb9bea5591.xml#13178023-7d6f-4d75-9979-85cb9bea5591"/>
       </sourceConnections>
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="f233bf44-205d-43b7-ba78-5ff6a40ddd01"
+          source="ce11601e-e83f-4de1-b08d-29db6137dbf2"
+          target="422d4688-dd64-4114-9cbf-65d8187a1a5a">
+        <bendpoints
+            startY="57"
+            endX="492"
+            endY="57"/>
+        <bendpoints
+            startX="-492"
+            startY="57"
+            endY="57"/>
+        <archimateRelationship
+            xsi:type="archimate:AssociationRelationship"
+            href="AssociationRelationship_dddb0eff-7b90-4884-a49f-ce5db368627a.xml#dddb0eff-7b90-4884-a49f-ce5db368627a"/>
+      </sourceConnections>
       <bounds
-          x="336"
+          x="312"
           y="36"
           width="120"
           height="55"/>
@@ -471,11 +507,11 @@
       id="b31a60e7-a98d-4421-be71-4f4253fa4c32"
       targetConnections="17c5cf14-b1d8-40db-bea3-43359f7ab150 0dad6c03-692f-45ff-9809-0ea70ec2feda"
       textAlignment="1"
-      content="Hva er relasjonen her mellom 3.0 og SERES (evt. andre datamodelleringsverktøy)?&#xD;&#xA;&#xD;&#xA;Datamodellering kan gjøres i et verktøy Altinn tilbyr, eller i en ekstern tjeneste.">
+      content="Datamodellering kan gjøres i et verktøy Altinn tilbyr, eller i en ekstern tjeneste. &#xD;&#xA;&#xD;&#xA;Til avklaring:&#xD;&#xA;- Hva er relasjonen mellom 3.0 og SERES (evt. andre datamodelleringsverktøy)?&#xD;&#xA;- Skal opprettelsen av et API i 3.0 automatisk oppdatere informasjonen i Data/API-katalogen?&#xD;&#xA;- er det andre grensesnitt mellom T30 og katalogtjenestene til informasjonsforvaltning som må avklares?">
     <bounds
         x="504"
         y="468"
         width="205"
-        height="121"/>
+        height="241"/>
   </children>
 </archimate:ArchimateDiagramModel>

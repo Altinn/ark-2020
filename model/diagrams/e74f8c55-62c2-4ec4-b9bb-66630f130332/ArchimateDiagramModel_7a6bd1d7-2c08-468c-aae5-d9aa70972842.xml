@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="2.2 Tjenester 3.0 Designer"
-    id="7a6bd1d7-2c08-468c-aae5-d9aa70972842">
+    id="7a6bd1d7-2c08-468c-aae5-d9aa70972842"
+    documentation="Tjenester 3.0 Designer vil være en brukervennlig løsning som fagpersoner og andre kan benytte for å lage tjenester, basert på gjenbruk og konfigurering av allerede ferdig utviklede “byggeklosser”.&#xD;&#xA;&#xD;&#xA;Eksempler på ulike typer slike byggeklosser er layouts, tema, web-komponenter, oversatte tekster, API-kall, kodelister og steg i arbeidsflyt.&#xD;&#xA;&#xD;&#xA;I bakgrunnen så vil den brukervennlige designeren benytte Git mot Repositories for å lagre det som lages, på samme måte som en teknisk utvikler bruker f.eks. Visual Studio Code til det samme.">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="76e725f2-0514-474b-948a-62f58d67b3a7">
