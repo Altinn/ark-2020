@@ -1,6 +1,6 @@
 # Arkitekturmålbilde 2020
 
-:construction:
+Arkivert! Innhold flyttet til https://github.com/Altinn/ark
 
 ## Spørsmål som vi ønsker å besvare med arkitekturen
 *   På hvilken måte treffer tiltakene de ulike komponentene?
